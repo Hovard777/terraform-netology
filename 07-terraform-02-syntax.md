@@ -2,4 +2,4 @@
    
 На одном из прошлых занятий мы создавали образ при помощи Packer. Ansible конфигурирует окружение внутри образа.
 
-2. 
+2. https://github.com/Hovard777/terraform-netology.git
